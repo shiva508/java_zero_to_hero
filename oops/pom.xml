@@ -3,18 +3,21 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.pool</groupId>
+        <artifactId>java_zero_to_hero</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.pool</groupId>
-    <artifactId>java_zero_to_hero</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>oops</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>datatypes</module>
-        <module>arrays</module>
-        <module>constructor</module>
-        <module>fundamentals</module>
-        <module>oops</module>
-        <module>annotations</module>
+        <module>polymorphism</module>
+        <module>clazz</module>
+        <module>object</module>
+        <module>encapsulation</module>
+        <module>inheritance</module>
+        <module>obstraction</module>
     </modules>
 
     <properties>
@@ -22,11 +25,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>commons-codec</groupId>
-            <artifactId>commons-codec</artifactId>
-            <version>1.14</version>
-        </dependency>
-    </dependencies>
+
 </project>

@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/annotations/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arrays/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arrays/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/constructor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/constructor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/datatypes/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/datatypes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentals/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/clazz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/clazz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/encapsulation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/encapsulation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/inheritance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/object/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/object/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/obstraction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/obstraction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/polymorphism/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/polymorphism/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oops/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
