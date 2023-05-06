@@ -9,19 +9,14 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>oops</artifactId>
+    <artifactId>threads</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>polymorphism</module>
-        <module>clazz</module>
-        <module>object</module>
-        <module>encapsulation</module>
-        <module>inheritance</module>
-        <module>obstraction</module>
-        <module>hashcode</module>
-        <module>object_flow</module>
-        <module>serializable</module>
-        <module>externalization</module>
+        <module>create</module>
+        <module>overriding_overloading</module>
+        <module>lifecycle</module>
+        <module>deadlock</module>
+        <module>join</module>
     </modules>
 
     <properties>
