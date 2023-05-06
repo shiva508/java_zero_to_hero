@@ -21,6 +21,7 @@
         <module>innerclass</module>
         <module>iostreams</module>
         <module>threads</module>
+        <module>concarancy</module>
     </modules>
 
     <properties>
