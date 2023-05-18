@@ -5,23 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pool</groupId>
-        <artifactId>java_zero_to_hero</artifactId>
+        <artifactId>threads</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>threads</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>create</module>
-        <module>overriding_overloading</module>
-        <module>lifecycle</module>
-        <module>deadlock</module>
-        <module>join</module>
-        <module>wait</module>
-        <module>sequential_processing</module>
-        <module>deamon_worker_thread</module>
-        <module>thread_priority</module>
-    </modules>
+    <artifactId>thread_priority</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
