@@ -10,8 +10,11 @@
 ## Problem is that every object has single intrinsic lock
 
 ## If we have two independent synchronized methods, then threads have to wait each other to release lock.
-## as each object has only one lock if one sync method acquires lock other sync method has to wait for loack gets released
+## as each object has only one lock if one sync method acquires lock other sync method has to wait for lock gets released
 
 ## Object level locking happens when synchronized method without static
 ## Class level locking happens when synchronized method with static
+
+# Re-entrant lock
+## Thread can not acquire lock on object owned by other thread, but given thread can acquire a lock that it already own,
 
