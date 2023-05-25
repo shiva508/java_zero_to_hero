@@ -1,11 +1,9 @@
 package com.pool.clone;
-
 public class CloningOfArrays {
     public static void main(String[] args) {
         singleDimentional();
         multiDimentional();
     }
-
     private static void multiDimentional() {
         int[][] multiArray = { { 1, 2 }, { 3, 4 } };
         int[][] cloneArray = multiArray.clone();

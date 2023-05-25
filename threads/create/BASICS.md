@@ -6,7 +6,6 @@
 ## Creating process is expensive as we need to allocate REGISTER,STACK EMORY,HEAP MEMORY for each process.
 ## Every single process has parent process so we need to handle both parent and child.
 
-
 # Threads
 ## Thread is lightweight process
 ## Thread is a unit of execution withing process, so single process may contain many threads.

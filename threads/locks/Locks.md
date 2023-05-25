@@ -18,3 +18,10 @@
 # Re-entrant lock
 ## Thread can not acquire lock on object owned by other thread, but given thread can acquire a lock that it already own,
 
+# Difference between Lock and Synchronization
+## We can ake lock fair : Prevent thread starvation - Synchronization blocks are by default unfair
+## We can check given lock is held or not with re-entrant lock - not possible with Synchronization blocks
+## We can get list of threads waiting for given lock with re-entrant lock - not possible
+## need try-catch-finally  -  no need of try-catch-finally 
+
+
