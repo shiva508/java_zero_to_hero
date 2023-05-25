@@ -24,6 +24,9 @@
         <module>synchronization</module>
         <module>locks</module>
         <module>volatile</module>
+        <module>livelock</module>
+        <module>atomic_variable</module>
+        <module>semaphores_mutexes</module>
     </modules>
 
     <properties>
