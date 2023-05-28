@@ -23,8 +23,7 @@
         <module>threads</module>
         <module>concarancy</module>
         <module>collection</module>
-        <module>collection/blocking_queue</module>
-        <module>collection/delay_queue</module>
+        <module>collection</module>
     </modules>
 
     <properties>

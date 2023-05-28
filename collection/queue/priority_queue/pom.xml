@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pool</groupId>
-        <artifactId>java_zero_to_hero</artifactId>
+        <artifactId>queue</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>blocking_queue</artifactId>
+    <artifactId>priority_queue</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
