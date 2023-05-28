@@ -22,6 +22,9 @@
         <module>iostreams</module>
         <module>threads</module>
         <module>concarancy</module>
+        <module>collection</module>
+        <module>collection/blocking_queue</module>
+        <module>collection/delay_queue</module>
     </modules>
 
     <properties>

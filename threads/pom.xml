@@ -27,6 +27,11 @@
         <module>livelock</module>
         <module>atomic_variable</module>
         <module>semaphores_mutexes</module>
+        <module>executor_service</module>
+        <module>runnable_callable</module>
+        <module>concurrent_collection</module>
+        <module>latch</module>
+        <module>cyclic_barrier</module>
     </modules>
 
     <properties>
