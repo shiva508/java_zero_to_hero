@@ -2,9 +2,8 @@ package com.pool.streams.allmatch;
 
 import java.util.List;
 import java.util.function.Predicate;
-
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
+import com.pool.StreamUtil;
+import com.pool.Student;
 
 public class StreamAllMatchClient {
     public static void main(String[] args) {

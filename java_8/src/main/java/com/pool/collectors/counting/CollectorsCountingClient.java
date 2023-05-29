@@ -1,7 +1,8 @@
 package com.pool.collectors.counting;
 
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
+import com.pool.StreamUtil;
+import com.pool.Student;
+
 import java.util.List;
 import java.util.stream.Collectors;
 

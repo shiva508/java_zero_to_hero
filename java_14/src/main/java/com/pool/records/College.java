@@ -1,6 +1,5 @@
 package com.pool.records;
-
-import com.pool.version8.streams.util.Student;
+import com.pool.Student;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
 package com.pool.streams.peek;
 
-import com.pool.version8.streams.util.Role;
-import com.pool.version8.streams.util.StreamUtil;
+import com.pool.Role;
+import com.pool.StreamUtil;
 import java.util.List;
 
 public class StreamPeekClient {

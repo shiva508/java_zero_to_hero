@@ -1,8 +1,7 @@
 package com.pool.streams.toArray;
 
-import com.pool.version8.streams.util.Role;
-import com.pool.version8.streams.util.StreamUtil;
-
+import com.pool.Role;
+import com.pool.StreamUtil;
 import java.util.Arrays;
 import java.util.List;
 

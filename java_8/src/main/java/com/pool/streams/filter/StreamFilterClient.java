@@ -3,9 +3,8 @@ package com.pool.streams.filter;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
-
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
+import com.pool.StreamUtil;
+import com.pool.Student;
 
 public class StreamFilterClient {
     public static void main(String[] args) {

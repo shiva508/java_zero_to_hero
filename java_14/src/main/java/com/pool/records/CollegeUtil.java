@@ -1,6 +1,6 @@
 package com.pool.records;
 
-import com.pool.version8.streams.util.StreamUtil;
+import com.pool.StreamUtil;
 
 public class CollegeUtil {
     public static void main(String[] args) {

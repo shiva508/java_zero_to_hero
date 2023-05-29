@@ -1,13 +1,11 @@
 package com.pool.streams.sorted;
 
-import com.pool.version8.streams.util.Role;
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
-
+import com.pool.Role;
+import com.pool.StreamUtil;
+import com.pool.Student;
 import java.util.Comparator;
 import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 public class StreamSortedClient {

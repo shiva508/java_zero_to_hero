@@ -1,4 +1,4 @@
-package com.pool.streams.util;
+package com.pool;
 
 public class StudentModel {
     private String fullName;

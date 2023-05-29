@@ -3,9 +3,8 @@ package com.pool.streams.distinct;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
+import com.pool.StreamUtil;
+import com.pool.Student;
 
 public class StreamDistinctClient {
     public static void main(String[] args) {

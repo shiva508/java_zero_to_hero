@@ -27,6 +27,7 @@
         <module>java_8</module>
         <module>java_14</module>
         <module>interview</module>
+        <module>utils</module>
     </modules>
 
     <properties>

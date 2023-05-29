@@ -1,4 +1,4 @@
-package com.pool.streams.util;
+package com.pool;
 
 import java.util.Objects;
 

@@ -1,8 +1,8 @@
 package com.pool.collectors.groupingBy;
 
-import com.pool.version8.streams.util.StreamUtil;
-import com.pool.version8.streams.util.Student;
-import com.pool.version8.streams.util.StudentModel;
+import com.pool.StreamUtil;
+import com.pool.Student;
+import com.pool.StudentModel;
 import java.util.List;
 import java.util.stream.Collectors;
 
