@@ -24,6 +24,9 @@
         <module>concarancy</module>
         <module>collection</module>
         <module>collection</module>
+        <module>java_8</module>
+        <module>java_14</module>
+        <module>interview</module>
     </modules>
 
     <properties>
