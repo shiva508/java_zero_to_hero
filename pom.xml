@@ -21,7 +21,6 @@
         <module>innerclass</module>
         <module>iostreams</module>
         <module>threads</module>
-        <module>concarancy</module>
         <module>collection</module>
         <module>collection</module>
         <module>java_8</module>
@@ -29,6 +28,16 @@
         <module>interview</module>
         <module>utils</module>
         <module>solid_principles</module>
+        <module>generics</module>
+        <module>java_7</module>
+        <module>i18n</module>
+        <module>jdbc</module>
+        <module>networking</module>
+        <module>date_time</module>
+        <module>reflection</module>
+        <module>regular_expression</module>
+        <module>poc</module>
+        <module>string_operations</module>
     </modules>
 
     <properties>

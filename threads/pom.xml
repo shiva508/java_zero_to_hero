@@ -34,6 +34,8 @@
         <module>cyclic_barrier</module>
         <module>exchanger</module>
         <module>fork_join</module>
+        <module>atomicreferance</module>
+        <module>yeid</module>
     </modules>
 
     <properties>
