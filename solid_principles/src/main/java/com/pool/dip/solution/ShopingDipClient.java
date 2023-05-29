@@ -1,7 +1,7 @@
 package com.pool.dip.solution;
 
-import com.pool.l5.solid.dip.CreditCard;
-import com.pool.l5.solid.dip.DebitCard;
+import com.pool.dip.CreditCard;
+import com.pool.dip.DebitCard;
 
 public class ShopingDipClient {
 	private BankCard bankCard;
