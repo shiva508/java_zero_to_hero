@@ -32,6 +32,8 @@
         <module>concurrent_collection</module>
         <module>latch</module>
         <module>cyclic_barrier</module>
+        <module>exchanger</module>
+        <module>fork_join</module>
     </modules>
 
     <properties>

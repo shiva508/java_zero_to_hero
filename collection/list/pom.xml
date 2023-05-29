@@ -5,17 +5,16 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pool</groupId>
-        <artifactId>java_zero_to_hero</artifactId>
+        <artifactId>collection</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>collection</artifactId>
+    <artifactId>list</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>queue</module>
-        <module>map</module>
-        <module>list</module>
+        <module>copy_on_write_array</module>
     </modules>
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
