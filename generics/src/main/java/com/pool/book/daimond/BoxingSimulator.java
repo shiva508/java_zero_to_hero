@@ -1,6 +1,6 @@
 package com.pool.book.daimond;
 
-import com.pool.l3.generics.book.GenericMemoryCell;
+import com.pool.book.GenericMemoryCell;
 
 public class BoxingSimulator {
 	public static void main(String[] args) {

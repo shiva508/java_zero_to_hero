@@ -5,7 +5,7 @@ import java.rmi.Naming;
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 
-import com.pool.l3.rmi.remoteinterface.StudentPoolRemoteInterface;
+import com.pool.rmi.remoteinterface.StudentPoolRemoteInterface;
 
 public class StudentPoolRemoteClient {
 	public static void main(String[] args) throws RemoteException {

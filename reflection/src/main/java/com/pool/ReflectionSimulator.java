@@ -3,8 +3,6 @@ package com.pool;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
-import com.pool.l3.reflection.service.ProductService;
-
 public class ReflectionSimulator {
 	public static void main(String[] args) {
 

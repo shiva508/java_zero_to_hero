@@ -38,6 +38,8 @@
         <module>regular_expression</module>
         <module>poc</module>
         <module>string_operations</module>
+        <module>java_9</module>
+        <module>java_11</module>
     </modules>
 
     <properties>

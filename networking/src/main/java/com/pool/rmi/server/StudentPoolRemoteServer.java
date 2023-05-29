@@ -3,9 +3,8 @@ package com.pool.rmi.server;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.RemoteException;
-
-import com.pool.l3.rmi.remoteinterface.StudentPoolRemoteAdder;
-import com.pool.l3.rmi.remoteinterface.StudentPoolRemoteInterface;
+import com.pool.rmi.remoteinterface.StudentPoolRemoteAdder;
+import com.pool.rmi.remoteinterface.StudentPoolRemoteInterface;
 
 public class StudentPoolRemoteServer {
 	public static void main(String[] args) {

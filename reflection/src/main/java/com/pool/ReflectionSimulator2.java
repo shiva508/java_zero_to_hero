@@ -2,9 +2,7 @@ package com.pool;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
-
-import com.pool.l3.reflection.annotation.Call;
-import com.pool.l3.reflection.service.ProductService;
+import com.pool.annotation.Call;
 
 public class ReflectionSimulator2 {
 	public static void main(String[] args) {
