@@ -24,7 +24,7 @@ public class NumberSampler extends RecursiveTask<Integer> {
     }
 
     public Integer sampleData(){
-        System.out.println("Batch processing");
+        System.out.println("Batch Processing "+Thread.currentThread().getName());
         return integerList.stream().map(integer -> integer*2).reduce(Integer::sum).get();
     }
 }
