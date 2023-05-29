@@ -28,6 +28,7 @@
         <module>java_14</module>
         <module>interview</module>
         <module>utils</module>
+        <module>solid_principles</module>
     </modules>
 
     <properties>
