@@ -4,7 +4,7 @@ import com.pool.dip.CreditCard;
 import com.pool.dip.DebitCard;
 
 public class ShopingDipClient {
-	private BankCard bankCard;
+	private final BankCard bankCard;
 
 	public ShopingDipClient(BankCard bankCard) {
 		super();
