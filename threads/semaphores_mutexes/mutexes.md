@@ -9,6 +9,6 @@
 ## It is signalling mechanism        -  It is Locking mechanism
 ## Thread and process perform wait(),notify operations to indicate weather they are acquired or released  - Thread or process has to acquire lock on mutex object if they want to acquire resource.
 ## it allows multiple program threads to access finite instance resource(Not single resource) - It allows multiple program threads to access a single shared resource but one at a time.
-## Process or thread blocks itself if no resource is free till the count of semaphore becomes greater than 1 - If if the lock is acquired by another thread or process then thread will wait till mutex object gets unlocked.
+## Process or thread blocks itself if no resource is free till the count of semaphore becomes greater than 1 - If the lock is acquired by another thread or process then thread will wait till mutex object gets unlocked.
 
 

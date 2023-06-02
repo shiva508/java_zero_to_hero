@@ -22,10 +22,10 @@ public class ClassForNameClient {
 	public static void main(String[] args) {
 
 		try {
-			Class className = Class.forName("com.dasari.L1.reflection.classforname.Happyness");
+			Class className = Class.forName("com.pool.reflection.classforname.Happyness");
 			System.out.println(className.getName());
 			System.out.println(className.isInterface());
-			Class classNameInterface = Class.forName("com.dasari.L1.reflection.classforname.Joyfull");
+			Class classNameInterface = Class.forName("com.pool.reflection.classforname.Joyfull");
 			System.out.println(classNameInterface.getName());
 			System.out.println(classNameInterface.isInterface());
 			Happyness happyness = new Happyness();
@@ -35,7 +35,7 @@ public class ClassForNameClient {
 			Class floatClazz = Class.forName("java.lang.Float");
 			System.out.println(floatClazz);
 			System.out.println("===============================================");
-			Class claxxxx = Class.forName("com.dasari.L1.reflection.classforname.Happyness");
+			Class claxxxx = Class.forName("com.pool.reflection.classforname.Happyness");
 			System.out.println(claxxxx.getName());
 			Happyness happyness2 = new Happyness();
 			Class clcccc = happyness2.getClass();

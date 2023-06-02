@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>datatypes</module>
+        <module>data_types</module>
         <module>arrays</module>
         <module>constructor</module>
         <module>fundamentals</module>
@@ -19,7 +19,7 @@
         <module>enums</module>
         <module>immutable</module>
         <module>innerclass</module>
-        <module>iostreams</module>
+        <module>io_streams</module>
         <module>threads</module>
         <module>collection</module>
         <module>collection</module>

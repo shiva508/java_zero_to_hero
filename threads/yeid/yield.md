@@ -7,7 +7,7 @@ has varying behavior depending upon the operating system.
 
 yield() is non-deterministic and platform dependent as well.
 
-3. Comparing with Other Idioms
+3 . Comparing with Other Idioms
 There are other constructs for affecting the relative progression of threads. 
 They include wait(), notify() and notifyAll() as part of Object class, join() 
 as part of Thread class, and sleep() as part of Thread class.

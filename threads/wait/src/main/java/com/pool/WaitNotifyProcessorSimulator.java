@@ -14,6 +14,5 @@ public class WaitNotifyProcessorSimulator {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-
     }
 }
