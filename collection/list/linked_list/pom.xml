@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.pool</groupId>
-        <artifactId>collection</artifactId>
+        <artifactId>list</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>list</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>copy_on_write_array</module>
-        <module>linked_list</module>
-    </modules>
+    <artifactId>linked_list</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
