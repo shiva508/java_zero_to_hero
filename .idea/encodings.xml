@@ -5,6 +5,14 @@
     <file url="file://$PROJECT_DIR$/annotations/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arrays/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arrays/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/copy_on_write_array/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/copy_on_write_array/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/linked_list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/linked_list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/collection/list/untitled/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/collection/map/Concurrent_Map/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/collection/map/Concurrent_Map/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/collection/map/concurrent_map/src/main/java" charset="UTF-8" />
@@ -25,20 +33,44 @@
     <file url="file://$PROJECT_DIR$/concarancy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/constructor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/constructor/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/datatypes/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/datatypes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_types/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_types/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/date_time/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/date_time/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/enums/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/enums/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exceptions/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exceptions/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fundamentals/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fundamentals/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/generics/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/i18n/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/i18n/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/immutable/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/immutable/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/innerclass/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/innerclass/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/iostreams/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/iostreams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interview/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/io_streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/io_streams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_14/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_7/interface_changes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_7/interface_changes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java_9/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networking/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/networking/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oops/clazz/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oops/clazz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oops/encapsulation/src/main/java" charset="UTF-8" />
@@ -61,10 +93,22 @@
     <file url="file://$PROJECT_DIR$/oops/serializable/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oops/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/oops/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reflection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regular_expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regular_expression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solid_principles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solid_principles/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_operations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/string_operations/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/atomic_variable/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/atomic_variable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/atomicreferance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/atomicreferance/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/concurrent_collection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/concurrent_collection/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/create/src/main/java" charset="UTF-8" />
@@ -75,8 +119,12 @@
     <file url="file://$PROJECT_DIR$/threads/deadlock/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/deamon_worker_thread/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/deamon_worker_thread/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/exchanger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/exchanger/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/executor_service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/executor_service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/fork_join/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/fork_join/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/join/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/join/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/latch/src/main/java" charset="UTF-8" />
@@ -105,5 +153,9 @@
     <file url="file://$PROJECT_DIR$/threads/volatile/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/wait/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threads/wait/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/yeid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads/yeid/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/src/main/resources" charset="UTF-8" />
   </component>
 </project>
